@@ -20,6 +20,7 @@ page 74124 "BingMaps Customer"
                 field(no; Rec."no.")
                 {
                     ApplicationArea = All;
+                    ToolTip = 'Customer No.';
                 }
                 field(name; Rec.Name)
                 {
